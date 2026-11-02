@@ -2,6 +2,7 @@
 --@author Maz
 --@version 1.4
 --@description Adjustable player model density
+--@url https://raw.githubusercontent.com/Maz0224/kron/refs/heads/main/customdragger.luau
 
 local Tab, Hub = ...
 
